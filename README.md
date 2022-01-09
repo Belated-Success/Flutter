@@ -1,4 +1,4 @@
-# nuts
+# Calculator.io
 
 A new Flutter project.
 
